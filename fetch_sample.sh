@@ -1,0 +1,1 @@
+curl -s "http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=time-seriesUnit=e" | xsltproc time_series.xsl - | jq '.' > sample.json
