@@ -53,7 +53,7 @@ XSLT is lousy at pretty-printing, so the JSON it outputs is ugly. (but valid) I 
 
     $ xsltproc noaa.xsl source_file.xml | jq '.'
 
-You can also use the `python -mjson.tool` to format the JSON (I think JQ is a faster, but the python command should be available on your system by default):
+You can also use the `python -mjson.tool` command to format the JSON (I think JQ is a faster, but the Python command should be available on your system by default):
 
     $ xsltproc noaa.xsl source_file.xml | python -mjson.tool
 
@@ -61,11 +61,11 @@ You can combine the commands into a one-liner to get pretty-printed output:
 
     $ curl -s "http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=time-series" | xsltproc noaa.xsl - | python -mjson.tool > sample_time_series.json
 
-These one-line commands are found in the [fetch_samples.sh](../master/fetch_samples.sh) shell script included in the repo.
+These one-line commands are found in the [fetch_samples.sh](../master/fetch_samples.sh) shell script.
 
 ###Feedback###
 
-I welcome feedback, pull-requests, and bug reports.
+I welcome feedback, pull requests, and bug reports.
 
 If you find a feed that breaks the XSLT, **please** send it to me in XML format so I can fix the XSLT.
 
