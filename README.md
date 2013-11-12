@@ -24,10 +24,10 @@ http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient
 Example *glance* feed:
 http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=glance
 
-Example *24-hourly* feed
+Example *24-hourly* feed:
 http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdBrowserClientByDay.php?lat=39.7&lon=-104.75&format=24+hourly
 
-Example *12-hourly* feed
+Example *12-hourly* feed:
 http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdBrowserClientByDay.php?lat=39.7&lon=-104.75&format=12+hourly
 
 ###Usage###
