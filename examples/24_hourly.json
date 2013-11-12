@@ -1,0 +1,282 @@
+{
+    "data": {
+        "location": {
+            "latitude": 39.7,
+            "longitude": -104.75
+        },
+        "more-information": "http://forecast.weather.gov/MapClick.php?textField1=39.70&textField2=-104.75",
+        "parameters": {
+            "condition-icons": {
+                "name": "Conditions Icons",
+                "periods": [
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-12T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/few.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-13T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/bkn.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-14T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/bkn.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-15T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-16T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-17T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/sn30.jpg"
+                    },
+                    {
+                        "duration-hours": 24,
+                        "start-time": "2013-11-18T06:00:00-07:00",
+                        "value": "http://www.nws.noaa.gov/weather/images/fcicons/sct.jpg"
+                    }
+                ]
+            },
+            "conditions": {
+                "name": "Weather Type, Coverage, and Intensity",
+                "periods": [
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-12T06:00:00-07:00",
+                        "summary": "Mostly Sunny"
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-13T06:00:00-07:00",
+                        "summary": "Mostly Cloudy"
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-14T06:00:00-07:00",
+                        "summary": "Mostly Cloudy"
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-15T06:00:00-07:00",
+                        "summary": "Partly Sunny"
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-16T06:00:00-07:00",
+                        "summary": "Partly Sunny"
+                    },
+                    {
+                        "condition": {
+                            "coverage": "chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "snow",
+                            "visibility": null
+                        },
+                        "duration-hours": 24,
+                        "start-time": "2013-11-17T06:00:00-07:00",
+                        "summary": "Chance Snow"
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 24,
+                        "start-time": "2013-11-18T06:00:00-07:00",
+                        "summary": "Partly Sunny"
+                    }
+                ]
+            },
+            "hazards": {
+                "name": "Watches, Warnings, and Advisories",
+                "periods": [
+                    {
+                        "duration-hours": 168,
+                        "hazard": null,
+                        "start-time": "2013-11-12T06:00:00-07:00"
+                    }
+                ]
+            },
+            "probability-of-precipitation": {
+                "name": "12 Hourly Probability of Precipitation",
+                "periods": [
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-12T06:00:00-07:00",
+                        "value": 2
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-12T18:00:00-07:00",
+                        "value": 0
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-13T06:00:00-07:00",
+                        "value": 0
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-13T18:00:00-07:00",
+                        "value": 7
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-14T06:00:00-07:00",
+                        "value": 8
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-14T18:00:00-07:00",
+                        "value": 18
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-15T06:00:00-07:00",
+                        "value": 18
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-15T18:00:00-07:00",
+                        "value": 3
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-16T06:00:00-07:00",
+                        "value": 4
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-16T18:00:00-07:00",
+                        "value": 7
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-17T06:00:00-07:00",
+                        "value": 16
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-17T18:00:00-07:00",
+                        "value": 33
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-18T06:00:00-07:00",
+                        "value": 7
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-18T18:00:00-07:00",
+                        "value": null
+                    }
+                ],
+                "units": "percent"
+            },
+            "temperature": {
+                "maximum": {
+                    "name": "Daily Maximum Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-13T06:00:00-07:00",
+                            "value": 66
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-14T06:00:00-07:00",
+                            "value": 51
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-15T06:00:00-07:00",
+                            "value": 46
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-16T06:00:00-07:00",
+                            "value": 52
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-17T06:00:00-07:00",
+                            "value": 47
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-18T06:00:00-07:00",
+                            "value": 38
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                },
+                "minimum": {
+                    "name": "Daily Minimum Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 36
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-13T06:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-14T06:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-15T06:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-16T06:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-17T06:00:00-07:00",
+                            "value": 19
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-18T06:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                }
+            }
+        }
+    },
+    "head": {
+        "creation-date": "2013-11-12T19:22:53Z",
+        "credit": "http://www.weather.gov/",
+        "credit-logo": "http://www.weather.gov/images/xml_logo.gif",
+        "disclaimer": "http://www.nws.noaa.gov/disclaimer.html",
+        "feedback": "http://www.weather.gov/feedback.php",
+        "title": "NOAA's National Weather Service Forecast by 24 Hour Period"
+    }
+}

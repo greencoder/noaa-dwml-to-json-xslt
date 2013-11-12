@@ -41,6 +41,10 @@ You can also *curl* the forecast and pipe it into *xsltproc*:
 
 *Note that you use a dash "-" to tell xsltproc to use stdin.*
 
+###Example Output###
+
+You can run the [fetch_examples.sh](../master/fetch_examples.sh) script to generate JSON files for all four feeds. Example files are included in the [examples directory](../master/examples/).
+
 ###Tests###
 
 I don't know of any way to unit test XSLT other than to try feeds with it. NOAA provides feed specifications, so I put those into the [test.sh](../master/test.sh) shell script.
@@ -61,7 +65,7 @@ You can combine the commands into a one-liner to get pretty-printed output:
 
     $ curl -s "http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=time-series" | xsltproc noaa.xsl - | python -mjson.tool > sample_time_series.json
 
-These one-line commands are found in the [fetch_samples.sh](../master/fetch_samples.sh) shell script.
+These one-line commands are found in the [fetch_examples.sh](../master/fetch_examples.sh) shell script.
 
 ###Feedback###
 

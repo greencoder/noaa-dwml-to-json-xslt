@@ -1,0 +1,3819 @@
+{
+    "data": {
+        "location": {
+            "latitude": 39.7,
+            "longitude": -104.75
+        },
+        "more-information": "http://forecast.weather.gov/MapClick.php?textField1=39.70&textField2=-104.75",
+        "parameters": {
+            "cloud-amount": {
+                "name": "Cloud Cover Amount",
+                "periods": [
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T12:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T13:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T14:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T15:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T16:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T17:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T18:02:00-07:00",
+                        "value": 22
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T19:02:00-07:00",
+                        "value": 100
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T20:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T21:02:00-07:00",
+                        "value": 100
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T22:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-11T23:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T00:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T01:02:00-07:00",
+                        "value": 64
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T02:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T03:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T04:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T05:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T06:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T07:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T08:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T09:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T10:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T11:02:00-07:00",
+                        "value": null
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T14:00:00-07:00",
+                        "value": 17
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T17:00:00-07:00",
+                        "value": 11
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T20:00:00-07:00",
+                        "value": 11
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-12T23:00:00-07:00",
+                        "value": 5
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T02:00:00-07:00",
+                        "value": 5
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T05:00:00-07:00",
+                        "value": 14
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T08:00:00-07:00",
+                        "value": 32
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T11:00:00-07:00",
+                        "value": 50
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T14:00:00-07:00",
+                        "value": 65
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T17:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T20:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-13T23:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T02:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T05:00:00-07:00",
+                        "value": 46
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T08:00:00-07:00",
+                        "value": 46
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T11:00:00-07:00",
+                        "value": 36
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T14:00:00-07:00",
+                        "value": 36
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T17:00:00-07:00",
+                        "value": 68
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-14T23:00:00-07:00",
+                        "value": 68
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-15T05:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-15T11:00:00-07:00",
+                        "value": 49
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-15T17:00:00-07:00",
+                        "value": 28
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-15T23:00:00-07:00",
+                        "value": 19
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-16T05:00:00-07:00",
+                        "value": 29
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-16T11:00:00-07:00",
+                        "value": 33
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-16T17:00:00-07:00",
+                        "value": 31
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-16T23:00:00-07:00",
+                        "value": 40
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-17T05:00:00-07:00",
+                        "value": 62
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-17T11:00:00-07:00",
+                        "value": 71
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-17T17:00:00-07:00",
+                        "value": 81
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-17T23:00:00-07:00",
+                        "value": 62
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-18T05:00:00-07:00",
+                        "value": 46
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-18T11:00:00-07:00",
+                        "value": 39
+                    },
+                    {
+                        "duration-hours": 1,
+                        "start-time": "2013-11-18T17:00:00-07:00",
+                        "value": 39
+                    }
+                ],
+                "units": "percent"
+            },
+            "condition-icons": {
+                "name": "Conditions Icons",
+                "periods": [
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T14:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/few.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T20:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nskc.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T02:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nskc.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T08:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T14:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/bkn.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nbkn.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T20:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nbkn.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nbkn.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T02:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nbkn.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T08:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T14:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nrasn10.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsn20.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsn20.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nfew.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nrasn10.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/rasn20.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsn20.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T23:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsn30.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T05:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T11:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/sct.jpg"
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T17:00:00-07:00",
+                        "value": "http://forecast.weather.gov/images/wtf/nsct.jpg"
+                    }
+                ]
+            },
+            "conditions": {
+                "name": "Weather Type, Coverage, and Intensity",
+                "periods": [
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T14:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T20:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T02:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T08:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T14:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T20:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T02:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T08:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T14:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "rain showers",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "snow",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "snow",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "rain",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "rain",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "snow",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T17:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": {
+                            "coverage": "slight chance",
+                            "intensity": "light",
+                            "qualifier": "none",
+                            "type": "snow",
+                            "visibility": null
+                        },
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T23:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T05:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T11:00:00-07:00",
+                        "summary": null
+                    },
+                    {
+                        "condition": null,
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T17:00:00-07:00",
+                        "summary": null
+                    }
+                ]
+            },
+            "hazards": {
+                "name": "Watches, Warnings, and Advisories",
+                "periods": [
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T13:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T14:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T15:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T16:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T17:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T18:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T19:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T20:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T21:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T22:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-12T23:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T00:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T01:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T02:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T03:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T04:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T05:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T06:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T07:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T08:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T09:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T10:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T11:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T12:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T13:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T14:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T15:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T16:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T17:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T18:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T19:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T20:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T21:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T22:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-13T23:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T00:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T01:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T02:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T03:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T04:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T05:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T06:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T07:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T08:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T09:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T10:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T11:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T12:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T13:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T14:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T15:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T16:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T17:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-14T23:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-15T05:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-15T11:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-15T17:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-15T23:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-16T05:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-16T11:00:00-07:00"
+                    },
+                    {
+                        "duration-hours": 1,
+                        "hazard": null,
+                        "start-time": "2013-11-16T17:00:00-07:00"
+                    }
+                ]
+            },
+            "humidity": {
+                "name": "Relative Humidity",
+                "periods": [
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T14:00:00-07:00",
+                        "value": 32
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T17:00:00-07:00",
+                        "value": 41
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T20:00:00-07:00",
+                        "value": 61
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-12T23:00:00-07:00",
+                        "value": 60
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T02:00:00-07:00",
+                        "value": 59
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T05:00:00-07:00",
+                        "value": 52
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T08:00:00-07:00",
+                        "value": 41
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T11:00:00-07:00",
+                        "value": 22
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T14:00:00-07:00",
+                        "value": 17
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T17:00:00-07:00",
+                        "value": 29
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T20:00:00-07:00",
+                        "value": 45
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-13T23:00:00-07:00",
+                        "value": 57
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T02:00:00-07:00",
+                        "value": 69
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T05:00:00-07:00",
+                        "value": 82
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T08:00:00-07:00",
+                        "value": 75
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T11:00:00-07:00",
+                        "value": 43
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T14:00:00-07:00",
+                        "value": 39
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T17:00:00-07:00",
+                        "value": 51
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-14T23:00:00-07:00",
+                        "value": 67
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T05:00:00-07:00",
+                        "value": 82
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T11:00:00-07:00",
+                        "value": 49
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T17:00:00-07:00",
+                        "value": 52
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-15T23:00:00-07:00",
+                        "value": 66
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T05:00:00-07:00",
+                        "value": 66
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T11:00:00-07:00",
+                        "value": 30
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T17:00:00-07:00",
+                        "value": 35
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-16T23:00:00-07:00",
+                        "value": 57
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T05:00:00-07:00",
+                        "value": 58
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T11:00:00-07:00",
+                        "value": 38
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T17:00:00-07:00",
+                        "value": 59
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-17T23:00:00-07:00",
+                        "value": 78
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T05:00:00-07:00",
+                        "value": 81
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T11:00:00-07:00",
+                        "value": 45
+                    },
+                    {
+                        "duration-hours": 3,
+                        "start-time": "2013-11-18T17:00:00-07:00",
+                        "value": 45
+                    }
+                ],
+                "units": "percent"
+            },
+            "precipitation": {
+                "liquid": {
+                    "name": "Liquid Precipitation Amount",
+                    "periods": [
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T11:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T12:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T13:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T14:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T15:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T16:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T17:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T18:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T19:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T20:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T21:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T22:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T23:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T00:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T01:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T02:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T03:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T04:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T07:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T08:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T09:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T10:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 0.0
+                        }
+                    ],
+                    "units": "inches"
+                },
+                "snow": {
+                    "name": "Snow Amount",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 0.0
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 0.0
+                        }
+                    ],
+                    "units": "inches"
+                }
+            },
+            "probability-of-precipitation": {
+                "name": "12 Hourly Probability of Precipitation",
+                "periods": [
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-12T05:00:00-07:00",
+                        "value": 2
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-12T17:00:00-07:00",
+                        "value": 0
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-13T05:00:00-07:00",
+                        "value": 0
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-13T17:00:00-07:00",
+                        "value": 7
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-14T05:00:00-07:00",
+                        "value": 8
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-14T17:00:00-07:00",
+                        "value": 18
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-15T05:00:00-07:00",
+                        "value": 18
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-15T17:00:00-07:00",
+                        "value": 3
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-16T05:00:00-07:00",
+                        "value": 4
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-16T17:00:00-07:00",
+                        "value": 7
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-17T05:00:00-07:00",
+                        "value": 16
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-17T17:00:00-07:00",
+                        "value": 33
+                    },
+                    {
+                        "duration-hours": 12,
+                        "start-time": "2013-11-18T05:00:00-07:00",
+                        "value": 7
+                    }
+                ],
+                "units": "percent"
+            },
+            "temperature": {
+                "apparent": {
+                    "name": "Apparent Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T14:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T20:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T02:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T08:00:00-07:00",
+                            "value": 41
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 61
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T14:00:00-07:00",
+                            "value": 66
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T20:00:00-07:00",
+                            "value": 41
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T02:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T08:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 48
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T14:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": 39
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": 35
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": 40
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": 36
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": 25
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": 24
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": 48
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": 44
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-17T05:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-17T11:00:00-07:00",
+                            "value": 40
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-17T17:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-17T23:00:00-07:00",
+                            "value": 17
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-18T05:00:00-07:00",
+                            "value": 19
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-18T11:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-18T17:00:00-07:00",
+                            "value": 26
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                },
+                "dew point": {
+                    "name": "Dew Point Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T12:00:00-07:00",
+                            "value": 22
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T13:00:00-07:00",
+                            "value": 25
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T14:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T15:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T16:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T17:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T18:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T19:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T20:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T21:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T22:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T23:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T00:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T01:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T02:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T03:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T04:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T07:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T08:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T09:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T10:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T14:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T20:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 25
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T02:00:00-07:00",
+                            "value": 23
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 21
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T08:00:00-07:00",
+                            "value": 23
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 22
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T14:00:00-07:00",
+                            "value": 21
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 23
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T20:00:00-07:00",
+                            "value": 23
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 24
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T02:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T08:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 27
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T14:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": 25
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": 26
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": 24
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": 24
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": 22
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": 20
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": 18
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": 19
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": 20
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T05:00:00-07:00",
+                            "value": 18
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T11:00:00-07:00",
+                            "value": 20
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T17:00:00-07:00",
+                            "value": 22
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T23:00:00-07:00",
+                            "value": 17
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T05:00:00-07:00",
+                            "value": 14
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T11:00:00-07:00",
+                            "value": 15
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T17:00:00-07:00",
+                            "value": 13
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                },
+                "hourly": {
+                    "name": "Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T12:00:00-07:00",
+                            "value": 65
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T13:00:00-07:00",
+                            "value": 61
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T14:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T15:00:00-07:00",
+                            "value": 39
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T16:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T17:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T18:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T19:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T20:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T21:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T22:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T23:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T00:00:00-07:00",
+                            "value": 28
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T01:00:00-07:00",
+                            "value": 29
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T02:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T03:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T04:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T07:00:00-07:00",
+                            "value": 33
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T08:00:00-07:00",
+                            "value": 38
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T09:00:00-07:00",
+                            "value": 45
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T10:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": 53
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T14:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T20:00:00-07:00",
+                            "value": 39
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 38
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T02:00:00-07:00",
+                            "value": 36
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 37
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T08:00:00-07:00",
+                            "value": 45
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 61
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T14:00:00-07:00",
+                            "value": 66
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T20:00:00-07:00",
+                            "value": 43
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 38
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T02:00:00-07:00",
+                            "value": 35
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T08:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 48
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T14:00:00-07:00",
+                            "value": 50
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": 43
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": 35
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": 42
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": 40
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": 48
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": 45
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T05:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T11:00:00-07:00",
+                            "value": 44
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T17:00:00-07:00",
+                            "value": 35
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T23:00:00-07:00",
+                            "value": 23
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T05:00:00-07:00",
+                            "value": 19
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T11:00:00-07:00",
+                            "value": 34
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T17:00:00-07:00",
+                            "value": 32
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                },
+                "maximum": {
+                    "name": "Daily Maximum Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-12T07:00:00-07:00",
+                            "value": 55
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-13T07:00:00-07:00",
+                            "value": 66
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-14T07:00:00-07:00",
+                            "value": 51
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-15T07:00:00-07:00",
+                            "value": 46
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-16T07:00:00-07:00",
+                            "value": 52
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-17T07:00:00-07:00",
+                            "value": 47
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-18T07:00:00-07:00",
+                            "value": 38
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                },
+                "minimum": {
+                    "name": "Daily Minimum Temperature",
+                    "periods": [
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-12T19:00:00-07:00",
+                            "value": 36
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-13T19:00:00-07:00",
+                            "value": 32
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-14T19:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-15T19:00:00-07:00",
+                            "value": 30
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-16T19:00:00-07:00",
+                            "value": 31
+                        },
+                        {
+                            "duration-hours": 24,
+                            "start-time": "2013-11-17T19:00:00-07:00",
+                            "value": 19
+                        }
+                    ],
+                    "units": "Fahrenheit"
+                }
+            },
+            "wind": {
+                "cumulative34": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 34 Knots (Cumulative)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "cumulative50": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 50 Knots (Cumulative)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "cumulative64": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 64 Knots (Cumulative)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "gust": {
+                    "name": "Wind Speed Gust",
+                    "periods": [
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T14:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T20:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T02:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T08:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T14:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T20:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T02:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T08:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T14:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 3,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": 6
+                        }
+                    ],
+                    "units": "knots"
+                },
+                "incremental34": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 34 Knots (Incremental)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "incremental50": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 50 Knots (Incremental)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "incremental64": {
+                    "name": "Probability of a Tropical Cyclone Wind Speed above 64 Knots (Incremental)",
+                    "periods": [
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": null
+                        },
+                        {
+                            "duration-hours": 6,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": null
+                        }
+                    ],
+                    "units": "percent"
+                },
+                "sustained": {
+                    "name": "Wind Speed",
+                    "periods": [
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T12:00:00-07:00",
+                            "value": 8
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T13:00:00-07:00",
+                            "value": 10
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T14:00:00-07:00",
+                            "value": 12
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T15:00:00-07:00",
+                            "value": 12
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T16:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T17:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T18:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T19:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T20:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T21:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T22:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-11T23:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T00:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T01:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T02:00:00-07:00",
+                            "value": 11
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T03:00:00-07:00",
+                            "value": 11
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T04:00:00-07:00",
+                            "value": 10
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T05:00:00-07:00",
+                            "value": 9
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T06:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T07:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T08:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T09:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T10:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T11:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T14:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T17:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T20:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-12T23:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T02:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T05:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T08:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T11:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T14:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T17:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T20:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-13T23:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T02:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T05:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T08:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T11:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T14:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T17:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-14T23:00:00-07:00",
+                            "value": 1
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T05:00:00-07:00",
+                            "value": 1
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T11:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T17:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-15T23:00:00-07:00",
+                            "value": 7
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T05:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T11:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T17:00:00-07:00",
+                            "value": 3
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-16T23:00:00-07:00",
+                            "value": 5
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T05:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T11:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T17:00:00-07:00",
+                            "value": 6
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-17T23:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T05:00:00-07:00",
+                            "value": 2
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T11:00:00-07:00",
+                            "value": 4
+                        },
+                        {
+                            "duration-hours": 1,
+                            "start-time": "2013-11-18T17:00:00-07:00",
+                            "value": 6
+                        }
+                    ],
+                    "units": "knots"
+                }
+            }
+        }
+    },
+    "head": {
+        "creation-date": "2013-11-12T19:22:50Z",
+        "credit": "http://www.weather.gov/",
+        "credit-logo": "http://www.weather.gov/images/xml_logo.gif",
+        "disclaimer": "http://www.nws.noaa.gov/disclaimer.html",
+        "feedback": "http://www.weather.gov/feedback.php",
+        "title": "NOAA's National Weather Service Real Time Mesoscale Analysis And Forecast Data"
+    }
+}
