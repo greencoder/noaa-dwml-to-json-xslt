@@ -15,9 +15,6 @@ I also cleaned up the `time-layout` mapping nonsense that you have to do when pa
 
 NOAA provides four main feeds: [time-series](http://graphical.weather.gov/xml/DWMLgen/schema/latest_DWML.txt), [24-hourly](http://graphical.weather.gov/xml/DWMLgen/schema/latest_DWMLByDay24hr.txt), [12-hourly](http://graphical.weather.gov/xml/DWMLgen/schema/latest_DWMLByDay12hr.txt), and [glance](http://graphical.weather.gov/xml/DWMLgen/schema/latest_DWML_glance.txt). There are parameters you can specify to filter the feeds, but in order to make this usable to lots of people, I wrote the transformations against the default values.
 
-The NOAA documentation is found at: 
-http://graphical.weather.gov/xml/rest.php
-
 Example *time-series* feed:
 http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=time-series
 
@@ -29,6 +26,8 @@ http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdBrowserCl
 
 Example *12-hourly* feed:
 http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdBrowserClientByDay.php?lat=39.7&lon=-104.75&format=12+hourly
+
+Consult the [NOAA REST API documentation](http://graphical.weather.gov/xml/rest.php) for specific information on the feeds.
 
 ###Usage###
 
@@ -44,7 +43,7 @@ You can also *curl* the forecast and pipe it into *xsltproc*:
 
 ###Tests###
 
-I don't know of any way to unit test XSLT other than to try feeds with it. NOAA provides feed specifications, so I put those into the [test.sh](../blob/master/test.sh) shell script.
+I don't know of any way to unit test XSLT other than to try feeds with it. NOAA provides feed specifications, so I put those into the [test.sh](../master/test.sh) shell script.
 
 I expect there could be edge cases in the feeds that aren't handled properly; send those to me and I'll start a test suite of "bad" feeds.
 
@@ -62,7 +61,7 @@ You can combine the commands into a one-liner to get pretty-printed output:
 
     $ curl -s "http://graphical.weather.gov/xml/sample_products/browser_interface/ndfdXMLclient.php?whichClient=NDFDgen&lat=39.7&lon=-104.75&product=time-series" | xsltproc noaa.xsl - | python -mjson.tool > sample_time_series.json
 
-These one-line commands are found in the [fetch_samples.sh](../blob/master/fetch_samples.sh) shell script included in the repo.
+These one-line commands are found in the [fetch_samples.sh](../master/fetch_samples.sh) shell script included in the repo.
 
 ###Feedback###
 
