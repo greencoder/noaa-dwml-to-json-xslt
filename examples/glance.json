@@ -1,5 +1,6 @@
 {
     "data": {
+        "conditions-url": "http://forecast.weather.gov/MapClick.php?FcstType=json&lat=39.70&lon=-104.75",
         "location": {
             "latitude": 39.7,
             "longitude": -104.75
@@ -1000,7 +1001,7 @@
         }
     },
     "head": {
-        "creation-date": "2013-11-12T19:22:51Z",
+        "creation-date": "2013-11-12T19:46:15Z",
         "credit": "http://www.weather.gov/",
         "credit-logo": "http://www.weather.gov/images/xml_logo.gif",
         "disclaimer": "http://www.nws.noaa.gov/disclaimer.html",

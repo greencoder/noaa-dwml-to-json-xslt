@@ -37,6 +37,15 @@
 		</xsl:if>
 	</xsl:template>
 
+	<!-- Function to generate the JSON URL for current conditions -->
+	<xsl:template name="generate-conditions-url">
+		<xsl:param name="lat" />
+		<xsl:param name="lng" />
+		<xsl:variable name="and"><![CDATA[&]]></xsl:variable>
+		<xsl:variable name="url" select="'http://forecast.weather.gov/MapClick.php?FcstType=json'" />
+		<xsl:value-of select="concat($url,$and,'lat=',$lat,$and,'lon=',$lng)" disable-output-escaping="yes" />
+	</xsl:template>
+
 	<xsl:template match="/dwml">
 		<xsl:if test="@version != '1.0'">
 			{ "error": "Unrecognized DWML version" }
@@ -66,11 +75,20 @@
    
 	<!-- dwml/data -->
     <xsl:template match="data">
+		<xsl:variable name="lat" select="location/point/@latitude" />
+		<xsl:variable name="lng" select="location/point/@longitude" />
+		<xsl:variable name="conditions-url">
+			<xsl:call-template name="generate-conditions-url">
+				<xsl:with-param name="lat" select="$lat" />
+				<xsl:with-param name="lng" select="$lng" />
+			</xsl:call-template>
+		</xsl:variable>
 		"location": {
-			"latitude": <xsl:value-of select="location/point/@latitude" />,
-			"longitude": <xsl:value-of select="location/point/@longitude" />
+			"latitude": <xsl:value-of select="$lat" />,
+			"longitude": <xsl:value-of select="$lng" />
 		},
 		"more-information": "<xsl:value-of select="moreWeatherInformation" />",
+		"conditions-url": "<xsl:value-of select="$conditions-url" />",
 		"parameters": {
 			<xsl:if test="parameters/temperature">
 				"temperature": {
